@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    width:100%;
+    height:100vh;
+    background-color:purple;
+    background-position: absolute;
+    background-size: cover;
+    float: center;
+}
+.a{
+    width: 250px;
+    height: 320px;
+    position: absolute;
+    background-color:white;
+    border-radius: 10px;
+    padding: 25px;
+    margin-left: 38%;
+    margin-top: 50px;
+    float:;
+}
+h1{
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    font-family: Arial;
+}
+
+form{
+    color:black;
+    font-family: sans-serif;
+    
+}
+input{
+    border-bottom: 2px solid blue;
+    border-radius: 3px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    background: transparent;
+    font-family: sans-serif;
+    color:black;
+}
+input:focus{
+    outline: none;
+}
+
+.h{
+    text-align: center;
+    padding-right: 9px;
+    padding-top: 10px;
+   
+}
+.h a{
+    text-decoration: none;
+    color: orange;
+    font-family: 'Gill Sans';
+    font-size: 20px;
+    cursor: pointer;
+}
+.h a:hover{
+    background-color: orange;
+    color: white;
+    border-radius: 3px;
+}
